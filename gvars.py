@@ -15,7 +15,7 @@ stopLossMargin = 0.05 # extra margin for the stop loss
 operEquity = 10000 # defines the target amount per execution ($)
 limitOrderMargin = 0.1 # percentage that defines the offset for the limit orders
 
-# YOUR API KEYS AT ALPACA GO HERE!
+# YOUR API KEYS AT ALPACA GO HERE WE GOOO!
 API_KEY = ""
 API_SECRET_KEY = ""
 ALPACA_API_URL = "https://paper-api.alpaca.markets"
